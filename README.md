@@ -1,1 +1,0 @@
-Hello! This is my attempt at making an etch-a-sketch!
