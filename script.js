@@ -1,4 +1,4 @@
-const gridTemplate = document.querySelector('#grid-container');
+/*const gridTemplate = document.querySelector('#grid-container');
 const resetButton = document.querySelector('#reset-button');
 
 window.addEventListener("load", setDefaultGrid);
@@ -50,4 +50,4 @@ function clearGrid() {
   gridArray.forEach((element) => {
     gridTemplate.removeChild(element);
   });
-}
+}*/
