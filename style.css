@@ -1,24 +1,3 @@
-/*h1 {
-  text-align: center;
+a {
+  font-size: 25px;
 }
-
-h2 {
-  text-align:center;
-}
-
-.button-container {
-  text-align: center;
-}
-
-#grid-container{
-  display: grid;
-  margin: 2rem auto;
-  border: 1px solid black;
-  min-height: 600px;
-  max-width: 600px;
-}
-
-.gridSquare {
-  border: 0px solid black;
-  background-color: white;
-}*/
